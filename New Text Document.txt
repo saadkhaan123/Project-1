@@ -1,0 +1,20 @@
+🌐 Project Title:
+"MA Digiworld – Fully Custom WordPress Website with Animations"
+
+📝 Project Description:
+MA Digiworld is a fully custom WordPress website designed and developed from scratch. It features a clean, modern layout with smooth scroll and hover animations that enhance the user experience. This project highlights my skills in both custom design and interactive frontend development.
+
+Key Features:
+
+✅ Custom WordPress Theme Design
+ 
+✅ Responsive Design – Perfectly optimized for all screen sizes
+
+✅ Smooth Animations – Scroll, hover, and section transitions for an engaging experience
+
+✅ SEO & Speed Optimized – Fast performance and search engine–friendly structure
+
+✅ Custom Functionalities – Advanced plugin integration and dynamic features
+
+✅ Content Structuring & Migration – Clean and user-friendly page setup
+
